@@ -8,7 +8,7 @@
 * **Kontrol State Simpel:** Mengubah status nyala/mati (HIGH/LOW) LED dengan satu *method* berparameter *boolean*.
 
 ## 📦 Instalasi
-1. Download repository ini sebagai file `.zip`.
+1. Download repository ini sebagai file `.zip`. 
 2. Buka Arduino IDE.
 3. Masuk ke menu **Sketch** -> **Include Library** -> **Add .ZIP Library...**
 4. Pilih file `.zip` yang baru saja diunduh.
